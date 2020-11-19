@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoomWord例子</string>
+    <string name="add_word">加字</string>
+    <string name="hint_word">留言...</string>
+    <string name="button_save">保存</string>
+    <string name="empty_not_saved">留言未保存，因为它为空。</string>
+</resources>
